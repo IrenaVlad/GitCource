@@ -1,1 +1,1 @@
-# GitCource
+Hello everyone!
